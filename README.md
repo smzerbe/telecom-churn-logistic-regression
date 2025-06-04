@@ -28,7 +28,6 @@ This project builds a logistic regression model to predict whether a telecom cus
 | File | Description |
 |------|-------------|
 | `telecom-churn-logistic-regression.ipynb` | Main notebook with EDA, data cleaning, model development, and results |
-| `telecom-churn-logistic-regression.html` | Rendered HTML version of the notebook |
 | `churn_raw_data.csv` | Raw dataset prior to cleaning |
 | `telecom-churn-logistic-regression_clean_dataset.csv` | Cleaned dataset used in modeling |
 
@@ -46,6 +45,6 @@ Raw and cleaned datasets are provided to ensure reproducibility.
 
 ## Contact
 
-- **Author**: Stephen Zerbe  
-- **GitHub**: [@smzerbe](https://github.com/smzerbe)  
-- **Email**: smzerbeda@gmail.com
+- Author: Stephen Zerbe  
+- GitHub: [@smzerbe](https://github.com/smzerbe)  
+- Email: smzerbeda@gmail.com
